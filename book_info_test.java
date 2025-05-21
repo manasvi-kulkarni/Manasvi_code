@@ -14,5 +14,8 @@ public class book_info_test {
 
         book_info bkio = new book_info (book_title, book_author, book_summary);
         bkio.showdetails();
+        // System.out.println(bkio.title);
+        // System.out.println(bkio.author);
+        // System.out.println(bkio.summary);
     }
 }
